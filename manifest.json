@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "chrome.notifications.onClicked test case",
+    "version": "1.0.0",
+    "permissions": [
+        "notifications"
+    ],
+    "background": {
+        "scripts": [
+			"background.js"
+        ]
+    }
+}
